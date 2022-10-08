@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**chanchalj2008/chanchalj2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+ Hi there 👋
 - 🔭 I’m currently working on my skills of turning boring, vast and unstructured data of excel files into relevant and insightful visualizations.
 - 🌱 I’m currently learning SQL, Power BI and Python
 - 👯 I’m looking to collaborate on projects related to my field i.e. data analytics
